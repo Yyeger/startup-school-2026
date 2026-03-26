@@ -6,6 +6,21 @@ Y Combinator 创业学校每节课的要点总结，按模块组织。
 
 ---
 
+## 📚 Quick Summaries | 快速总结
+
+**New!** Comprehensive summaries of all lessons are now available:
+
+- **English:** [SUMMARY.md](SUMMARY.md) — A condensed guide covering the 8 essential modules from getting started to fundraising
+- **中文:** [SUMMARY_ZH.md](SUMMARY_ZH.md) — 涵盖从创业起步到融资的 8 个核心模块的精华总结
+
+These summaries include:
+- Key principles and frameworks from all 26 lessons
+- Quick-reference tables and checklists
+- Founder mindset lessons from Zuckerberg and Wojcicki
+- A startup checklist for each stage (Before Starting → Early Stage → Finding PMF → Scaling)
+
+---
+
 ## Table of Contents | 目录
 
 - [Module 1: Getting Started | 模块1：开始创业](#module-1-getting-started--模块1开始创业)
